@@ -32,7 +32,11 @@ $(FRAMEWORK_NAME)_FILES = thong_bao_gif.mm
     //kethuctb:nil]; // không text end
 ```
 
+## DEMO 
 
+## 📸 Demo
+
+![Demo Alert](https://raw.githubusercontent.com/cLazy102/Alert-ios-Object-C/main/IMG_4719.gif)
 
 
 ## Tác giả | Author

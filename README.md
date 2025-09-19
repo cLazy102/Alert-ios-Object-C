@@ -29,6 +29,7 @@ $(FRAMEWORK_NAME)_FILES = thong_bao_gif.mm
          font:[UIFont systemFontOfSize:16]// kích cỡ chữ
       duration:10 // số giây hiển thị
     kethuctb:NSSENCRYPT("Thông báo đã kết thúc!")]; // text end
+    //kethuctb:nil]; // không text end
 ```
 
 

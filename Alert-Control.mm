@@ -1,7 +1,7 @@
 
 // alert Basic
 
-showalert(NSSENCRYPT("Thông báo"), NSSENCRYPT("Xin Chào!\n Ứng dụng đã bị khoá"), NSSENCRYPT("key_done"));
+showalert(NSSENCRYPT("Thông báo"), NSSENCRYPT("Xin Chào!\n Ứng dụng đã bị khoá"), NSSENCRYPT("key_block"));
 
 void showalert(NSString *title, NSString *message, NSString *identifier) {
     
@@ -38,3 +38,4 @@ void showalert(NSString *title, NSString *message, NSString *identifier) {
         [rootVC presentViewController:alert animated:YES completion:nil];
     });
 }
+

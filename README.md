@@ -44,7 +44,7 @@ $(FRAMEWORK_NAME)_FILES = thong_bao_gif.mm
 
 Telegram: [Donald Bịp 102](https://t.me/lazyvna)  
 
-GROUP TELEGRAM:[cLazy Chat](https://t.me/clazychat)  
+GROUP TELEGRAM: [cLazy Chat](https://t.me/clazychat)  
 
 
 
